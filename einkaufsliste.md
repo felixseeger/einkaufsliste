@@ -1,11 +1,23 @@
--Gemüse
+Einkaufen
 
-- [] kartoffel
-- [] Gurcke
-- [] Ingwer
-- [] Tomaten
+Obst
 
--Fleisch
+- 5x Kiwi [ ]
+- 3x Banane [ ]
+- 1x Sternfrucht [ ]
+- 2x Apfel [ ]
 
-- [] Hack Fleisch
-- [] Rind Fleisch
+Gemüse
+
+- Spargel [ ]
+- Süßkartoffel [ ]
+- kartoffel [ ]
+- Gurcke [ ]
+- Ingwer [ ]
+- Tomaten [ ]
+
+Fleisch
+
+- 500g Hänchen [ ]
+- Hack Fleisch [ ]
+- Rind Fleisch [ ]
